@@ -7,4 +7,4 @@
 
 ## Analysis Reports
 A tentative Analysis Report for the same is attached here in the repository which justifies the Output Results and Analysis of the Research work undertaken. More can be viewed at the codes attached here.
-A big thanks to Geetha Pardheev Chunduru for dedicated suport throughout the project.
+A big thanks to Geetha Pardheev Chunduru for dedicated contribution throughout the project.
